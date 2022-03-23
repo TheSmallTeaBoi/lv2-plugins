@@ -67,7 +67,7 @@ static const void *extension_data(const char *uri) { return NULL; }
 
 /* Descriptor */
 static const LV2_Descriptor descriptor = {
-    "https://github.com/thesmallteaboi/lv2-plugins",
+    "https://github.com/TheSmallTeaBoi/lv2-plugins/tree/main/myAmp",
     instantiate,
     connect_port,
     activate,
